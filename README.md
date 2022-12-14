@@ -1,7 +1,7 @@
 # CharStripper
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/charstripper) ![PyPI - License](https://img.shields.io/pypi/l/charstripper) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/charstripper) ![PyPI](https://img.shields.io/pypi/v/charstripper) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/charstripper) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/charstripper)
 
-This is a program which emulates text input like a brute force technique.
+This program replaces multiple characters in a text and also optionally lowers it.
 
 ## Installation
 ```
