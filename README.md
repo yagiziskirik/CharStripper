@@ -5,7 +5,7 @@ This program replaces multiple characters in a text and also optionally lowers i
 
 ## Installation
 ```
-pip install charstripper
+pip install CharStripper
 ```
 
 ## Usage
